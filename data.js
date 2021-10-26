@@ -5174,17 +5174,20 @@ return [
     "countryShortCode": "GH",
     "regions": [
       {
-        "name": "Ahafo"
+        "name": "Ahafo",
+        "shortCode": "AF"
       },
       {
         "name": "Ashanti",
         "shortCode": "AH"
       },
       {
-        "name": "Bono"
+        "name": "Bono",
+        "shortCode": "BO"
       },
       {
-        "name": "Bono East"
+        "name": "Bono East",
+        "shortCode": "BE"
       },
       {
         "name": "Central",
@@ -5203,13 +5206,16 @@ return [
         "shortCode": "NP"
       },
       {
-        "name": "North East"
+        "name": "North East",
+        "shortCode": "NE"
       },
       {
-        "name": "Oti"
+        "name": "Oti",
+        "shortCode": "OT"
       },
       {
-        "name": "Savannah"
+        "name": "Savannah",
+        "shortCode": "SV"
       },
       {
         "name": "Upper East",
@@ -5228,7 +5234,8 @@ return [
         "shortCode": "WP"
       },
       {
-        "name": "Western North"
+        "name": "Western North",
+        "shortCode": "WN"
       }
     ]
   },
@@ -5237,7 +5244,8 @@ return [
     "countryShortCode": "GI",
     "regions": [
       {
-        "name": "Gibraltar"
+        "name": "Gibraltar",
+        "shortCode": "GI"
       }
     ]
   },
@@ -5364,7 +5372,8 @@ return [
     "countryShortCode": "GP",
     "regions": [
       {
-        "name": "Guadeloupe"
+        "name": "Guadeloupe",
+        "shortCode": "GP"
       }
     ]
   },
@@ -5373,7 +5382,8 @@ return [
     "countryShortCode": "GU",
     "regions": [
       {
-        "name": "Guam"
+        "name": "Guam",
+        "shortCode": "GU"
       }
     ]
   },
@@ -5684,7 +5694,8 @@ return [
     "countryShortCode": "HM",
     "regions": [
       {
-        "name": "Heard Island and McDonald Islands"
+        "name": "Heard Island and McDonald Islands",
+        "shortCode": "HM"
       }
     ]
   },
